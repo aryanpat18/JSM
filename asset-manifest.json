@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/JSM/static/css/main.97e32824.css",
-    "main.js": "/JSM/static/js/main.f0570f2a.js",
-    "static/media/navsystem.png": "/JSM/static/media/navsystem.0078ff130a515d82ffad.png",
-    "static/media/cricket.png": "/JSM/static/media/cricket.86a1d41d8b04aeb3cae4.png",
-    "static/media/hack.png": "/JSM/static/media/hack.f85e829ab5c4f087c26e.png",
-    "static/media/inventory.png": "/JSM/static/media/inventory.2f9c5842d06013885057.png",
-    "static/media/cplusplus.png": "/JSM/static/media/cplusplus.666af1b3598c92045b63.png",
-    "static/media/2.png": "/JSM/static/media/2.a248d3338089ee1fb7f6.png",
-    "static/media/divide.png": "/JSM/static/media/divide.bbcb25c6040569f85149.png",
-    "static/media/logo.png": "/JSM/static/media/logo.70d0d64838adf6446e0c.png",
-    "static/media/engg160.png": "/JSM/static/media/engg160.766abe3858e6ca0239eb.png",
-    "static/media/excel.png": "/JSM/static/media/excel.833dac9ab1904a20f262.png",
-    "static/media/Matlab.png": "/JSM/static/media/Matlab.2b608e94f8e1c2c9cd8e.png",
-    "static/media/java.png": "/JSM/static/media/java.6c1a3b5f7e2d535bff5b.png",
-    "static/media/github.png": "/JSM/static/media/github.d197d6491f81a30a1125.png",
-    "static/media/html.png": "/JSM/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/sql.png": "/JSM/static/media/sql.3cbcbd4a45dae9d1dd6c.png",
-    "static/media/mongo.png": "/JSM/static/media/mongo.7d7ef799b6080b384730.png",
-    "index.html": "/JSM/index.html",
-    "main.97e32824.css.map": "/JSM/static/css/main.97e32824.css.map",
-    "main.f0570f2a.js.map": "/JSM/static/js/main.f0570f2a.js.map"
+    "main.css": "/MyPortWeb/static/css/main.97e32824.css",
+    "main.js": "/MyPortWeb/static/js/main.eb00cdd7.js",
+    "static/media/navsystem.png": "/MyPortWeb/static/media/navsystem.0078ff130a515d82ffad.png",
+    "static/media/cricket.png": "/MyPortWeb/static/media/cricket.86a1d41d8b04aeb3cae4.png",
+    "static/media/hack.png": "/MyPortWeb/static/media/hack.f85e829ab5c4f087c26e.png",
+    "static/media/inventory.png": "/MyPortWeb/static/media/inventory.2f9c5842d06013885057.png",
+    "static/media/cplusplus.png": "/MyPortWeb/static/media/cplusplus.666af1b3598c92045b63.png",
+    "static/media/2.png": "/MyPortWeb/static/media/2.a248d3338089ee1fb7f6.png",
+    "static/media/divide.png": "/MyPortWeb/static/media/divide.bbcb25c6040569f85149.png",
+    "static/media/logo.png": "/MyPortWeb/static/media/logo.70d0d64838adf6446e0c.png",
+    "static/media/engg160.png": "/MyPortWeb/static/media/engg160.766abe3858e6ca0239eb.png",
+    "static/media/excel.png": "/MyPortWeb/static/media/excel.833dac9ab1904a20f262.png",
+    "static/media/Matlab.png": "/MyPortWeb/static/media/Matlab.2b608e94f8e1c2c9cd8e.png",
+    "static/media/java.png": "/MyPortWeb/static/media/java.6c1a3b5f7e2d535bff5b.png",
+    "static/media/github.png": "/MyPortWeb/static/media/github.d197d6491f81a30a1125.png",
+    "static/media/html.png": "/MyPortWeb/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/sql.png": "/MyPortWeb/static/media/sql.3cbcbd4a45dae9d1dd6c.png",
+    "static/media/mongo.png": "/MyPortWeb/static/media/mongo.7d7ef799b6080b384730.png",
+    "index.html": "/MyPortWeb/index.html",
+    "main.97e32824.css.map": "/MyPortWeb/static/css/main.97e32824.css.map",
+    "main.eb00cdd7.js.map": "/MyPortWeb/static/js/main.eb00cdd7.js.map"
   },
   "entrypoints": [
     "static/css/main.97e32824.css",
-    "static/js/main.f0570f2a.js"
+    "static/js/main.eb00cdd7.js"
   ]
 }
