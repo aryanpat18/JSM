@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortWeb/static/css/main.97e32824.css",
-    "main.js": "/MyPortWeb/static/js/main.eb00cdd7.js",
+    "main.js": "/MyPortWeb/static/js/main.134755bb.js",
     "static/media/navsystem.png": "/MyPortWeb/static/media/navsystem.0078ff130a515d82ffad.png",
     "static/media/cricket.png": "/MyPortWeb/static/media/cricket.86a1d41d8b04aeb3cae4.png",
     "static/media/hack.png": "/MyPortWeb/static/media/hack.f85e829ab5c4f087c26e.png",
@@ -20,10 +20,10 @@
     "static/media/mongo.png": "/MyPortWeb/static/media/mongo.7d7ef799b6080b384730.png",
     "index.html": "/MyPortWeb/index.html",
     "main.97e32824.css.map": "/MyPortWeb/static/css/main.97e32824.css.map",
-    "main.eb00cdd7.js.map": "/MyPortWeb/static/js/main.eb00cdd7.js.map"
+    "main.134755bb.js.map": "/MyPortWeb/static/js/main.134755bb.js.map"
   },
   "entrypoints": [
     "static/css/main.97e32824.css",
-    "static/js/main.eb00cdd7.js"
+    "static/js/main.134755bb.js"
   ]
 }
